@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">UJ1cE2qU1qG1vIOXPXZLpIuH2tN4ASn4XwTmpozg</string>
+    <string name="back4app_client_key">5OfOOgDpXGpyWe6paZQ8gHQ1ZzXHG41BmbE7quM8</string>
+
+    <string name="app_name">FollowTweet</string>
+
+</resources>
